@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|Proyecto-ClubManualidadesPeru.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\proyecto-clubmanualidadesperu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|Proyecto-ClubManualidadesPeru.csproj|solutionrelative:proyecto-clubmanualidadesperu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\predict_ventas.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:predict_ventas.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\models\\ventaimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:models\\ventaimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\models\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:models\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\models\\historialimportacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:models\\historialimportacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|c:\\users\\intelimaster\\desktop\\proyecto 1\\machinelearning\\controllers\\prediccionventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D126784-8D57-448A-A69D-D5D6760DBFB6}|MachineLearning.csproj|solutionrelative:controllers\\prediccionventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineLearning",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Proyecto-ClubManualidadesPeru.csproj",
+              "RelativeDocumentMoniker": "Proyecto-ClubManualidadesPeru.csproj",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Proyecto-ClubManualidadesPeru.csproj",
+              "RelativeToolTip": "Proyecto-ClubManualidadesPeru.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T23:18:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:02:24.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "predict_ventas.py",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\predict_ventas.py",
+              "RelativeDocumentMoniker": "predict_ventas.py",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\predict_ventas.py",
+              "RelativeToolTip": "predict_ventas.py",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-03T23:01:56.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaImport.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\VentaImport.cs",
+              "RelativeDocumentMoniker": "Models\\VentaImport.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\VentaImport.cs",
+              "RelativeToolTip": "Models\\VentaImport.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\VentaDetalle.cs",
+              "RelativeDocumentMoniker": "Models\\VentaDetalle.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\VentaDetalle.cs",
+              "RelativeToolTip": "Models\\VentaDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:37.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistorialImportacion.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\HistorialImportacion.cs",
+              "RelativeDocumentMoniker": "Models\\HistorialImportacion.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\HistorialImportacion.cs",
+              "RelativeToolTip": "Models\\HistorialImportacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:30.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\DTO\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\VentaDTO.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\DTO\\VentaDTO.cs",
+              "RelativeToolTip": "DTO\\VentaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:24.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:19.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:16.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:01:07.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrediccionVentasController.cs",
+              "DocumentMoniker": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Controllers\\PrediccionVentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrediccionVentasController.cs",
+              "ToolTip": "C:\\Users\\INTELIMASTER\\Desktop\\PROYECTO 1\\MachineLearning\\Controllers\\PrediccionVentasController.cs",
+              "RelativeToolTip": "Controllers\\PrediccionVentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:00:33.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

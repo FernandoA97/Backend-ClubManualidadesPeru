@@ -1,0 +1,6 @@
+@MachineLearning_HostAddress = http://localhost:5121
+
+GET {{MachineLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
