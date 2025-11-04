@@ -1,3 +1,9 @@
+CREATE DATABASE BDManualidades
+GO
+
+USE BDManualidades
+GO
+
 CREATE TABLE [dbo].[Clientes](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[NombreCliente] [nvarchar](200) NOT NULL,
@@ -45,7 +51,39 @@ GO
 
 INSERT INTO Productos (CodigoSKU, NombreProducto, PrecioUnitario) VALUES ('P1124555', 'Gaseosa', 10.50);
 
+
 /*********************************************************************/
+
+
+CREATE TABLE [dbo].[Ventas](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Serie] [nvarchar](50) NOT NULL,
+	[Numero] [nvarchar](50) NOT NULL,
+	[FechaDeMision] [datetime] NOT NULL,
+	[IdCliente] [int] NOT NULL,
+	[MetodoPago] [nvarchar](50) NULL,
+	[MontoTotal] [decimal](18, 2) NOT NULL,
+	[EstadoPago] [nvarchar](50) NULL,
+	[Comentarios] [nvarchar](500) NULL,
+	[FechaEntrega] [datetime] NULL,
+	[EstadoVenta] [nvarchar](50) NULL,
+	[RegionTienda] [nvarchar](100) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Ventas]  WITH CHECK ADD  CONSTRAINT [FK_Ventas_Clientes] FOREIGN KEY([IdCliente])
+REFERENCES [dbo].[Clientes] ([Id])
+GO
+
+ALTER TABLE [dbo].[Ventas] CHECK CONSTRAINT [FK_Ventas_Clientes]
+GO
+/**************************************************/
+
+
 
 CREATE TABLE [dbo].[Venta_Detalle](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
@@ -87,37 +125,6 @@ GO
 
 ALTER TABLE [dbo].[Venta_Detalle] CHECK CONSTRAINT [FK_VentaDetalle_Ventas]
 GO
-
-
-/*********************************************/
-
-CREATE TABLE [dbo].[Ventas](
-	[Id] [int] IDENTITY(1,1) NOT NULL,
-	[Serie] [nvarchar](50) NOT NULL,
-	[Numero] [nvarchar](50) NOT NULL,
-	[FechaDeMision] [datetime] NOT NULL,
-	[IdCliente] [int] NOT NULL,
-	[MetodoPago] [nvarchar](50) NULL,
-	[MontoTotal] [decimal](18, 2) NOT NULL,
-	[EstadoPago] [nvarchar](50) NULL,
-	[Comentarios] [nvarchar](500) NULL,
-	[FechaEntrega] [datetime] NULL,
-	[EstadoVenta] [nvarchar](50) NULL,
-	[RegionTienda] [nvarchar](100) NULL,
-PRIMARY KEY CLUSTERED 
-(
-	[Id] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
-) ON [PRIMARY]
-GO
-
-ALTER TABLE [dbo].[Ventas]  WITH CHECK ADD  CONSTRAINT [FK_Ventas_Clientes] FOREIGN KEY([IdCliente])
-REFERENCES [dbo].[Clientes] ([Id])
-GO
-
-ALTER TABLE [dbo].[Ventas] CHECK CONSTRAINT [FK_Ventas_Clientes]
-GO
-
 
 
 
